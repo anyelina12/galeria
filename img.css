@@ -23,7 +23,7 @@ html {
 	border: 3px ;
 	display: flex;
 	border: 2px pink solid;
-	background-image: url(http://www.todopaisajes.com/Imagenes/atardecer-3d.jpg);
+	background-image: url("file:///C:/Users/Nuevo/Downloads/atardecer-3d.jpg");
 	
 }
 #principal {
